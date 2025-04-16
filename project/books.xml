@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE library SYSTEM "books.dtd">
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="books.xsd">
+    <book>
+        <title>The Hunger Games</title>
+        <author>Suzanne Collins</author>
+        <year>2008</year>
+        <genre>Dystopian</genre>
+    </book>
+    <book>
+        <title>Catching Fire</title>
+        <author>Suzanne Collins</author>
+        <year>2009</year>
+        <genre>Dystopian</genre>
+    </book>
+    <book>
+        <title>Percy Jackson and the Olympians: The Lightning Thief</title>
+        <author>Rick Riordan</author>
+        <year>2005</year>
+        <genre>Fantasy</genre>
+    </book>
+    <book>
+        <title>Percy Jackson and the Olympians: The Sea of Monsters</title>
+        <author>Rick Riordan</author>
+        <year>2006</year>
+        <genre>Fantasy</genre>
+    </book>
+</library>
+
